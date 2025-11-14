@@ -15,7 +15,7 @@ import {
   Grid,
 } from "@mui/material";
 
-import BookingForm from "../components/BookingForm";
+import BookingForm from "../Components/BookingForm";
 
 function RestaurantDetails() {
   const { id } = useParams();
